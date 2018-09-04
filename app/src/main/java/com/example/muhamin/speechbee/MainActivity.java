@@ -24,6 +24,3 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 
-void dummy(){
-    int x = 9;
-}
